@@ -1,4 +1,4 @@
-# cuevision
+# CueVision
 
 A new Flutter project.
 
